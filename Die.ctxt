@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=numSides
+comment0.target=Die(int)
+comment0.text=\n\ \ \ Constructor\:\ Sets\ the\ number\ of\ sides.\n
+comment1.params=
+comment1.target=int\ roll()
+comment1.text=\n\ \ \ Rolls\ the\ die\ and\ returns\ the\ result.\n\ \n\ @return\ \ \ \ \ the\ value\ of\ the\ roll\ as\ an\ integer\ \n
+comment2.params=
+comment2.target=int\ getMyFaceValue()
+comment2.text=\n\ \ \ Face\ value\ getter\ method.\n\ \n\ @return\ \ \ \ \ the\ most\ recent\ roll\ as\ an\ integer\ \n
+comment3.params=
+comment3.target=int\ getMyNumSides()
+comment3.text=\n\ \ \ Number\ of\ sides\ getter\ method.\n\ \n\ @return\ \ \ \ \ the\ number\ of\ die\ sides\ as\ an\ integer\ \n
+comment4.params=numSides
+comment4.target=void\ setMyNumSides(int)
+comment4.text=\n\ \ \ Number\ of\ sides\ setter\ method.\n\ \n\ @param\ \ \ \ \ numSides\ the\ number\ of\ die\ sides\ as\ an\ integer\ \n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ string\ representation\ of\ this\ die.\n\ \n\ @return\ \ \ \ \ a\ string\ describing\ instance\ variables\n
+numComments=6

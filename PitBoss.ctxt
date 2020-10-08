@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=bank\ bet
+comment0.target=PitBoss(int,\ int)
+comment1.params=
+comment1.target=void\ diceThrown()
+comment1.text=\ Students\ will\ complete\ the\ diceThrown()\ method\ \ \n\ \ \ \ \n\ \ \ diceThrown()\ enforces\ game\ rules\n\ \ \ \n\ \ \ Does\ not\ allow\ the\ game\ to\ proceed\ if\ the\ player\ has\ no\ money\n\ \ \ \ or\ if\ the\ player\ is\ betting\ more\ money\ than\ they\ have.\n\ \ \ \n\ \ \ If\ the\ player\ rolls\ a\ 7\ or\ 11\ on\ their\ first\ roll\ the\ player\ wins.\n\ \ \ The\ house\ wins\ on\ a\ 2,\ 3\ or\ 12\ on\ the\ first\ roll.\n\ \ \ \n\ \ \ IF\ none\ of\ those\ values\ are\ rolled,\ the\ last\ roll\ becomes\ the\ "players\ point".\n\ \ \ on\ all\ following\ rolls,\ the\ player\ wins\ if\ they\ roll\ the\ "players\ point",\n\ \ \ and\ the\ house\ wins\ on\ 7.\ \ The\ player\ rolls\ until\ either\ one\ happens\ \n\ \ \ and\ cannot\ change\ the\ amount\ bet\ until\ they\ win\ or\ the\ house\ wins.\n\ \ \ \n
+comment2.params=
+comment2.target=int\ getPlayersBank()
+comment3.params=
+comment3.target=int\ getPlayersPoint()
+comment4.params=
+comment4.target=int\ getPlayersBet()
+comment5.params=
+comment5.target=int\ getLastRoll()
+comment6.params=
+comment6.target=java.lang.String\ getDealersDialogue()
+comment7.params=
+comment7.target=int\ increaseBet()
+comment8.params=
+comment8.target=int\ decreaseBet()
+numComments=9

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PairOfDice()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ PairOfDice\n
+comment1.params=
+comment1.target=void\ rollDice()
+comment1.text=\n\ simulates\ rolling\ the\ dice\n
+comment2.params=
+comment2.target=int\ getSum()
+comment3.params=
+comment3.target=int\ getFirstDie()
+comment4.params=
+comment4.target=int\ getSecondDie()
+numComments=5
